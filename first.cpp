@@ -23,7 +23,23 @@ int main()
     cin >> firstname;
     cout << "Enter your last name : ";
     cin >> lastname;
-    cout << "The name you entered is : " << firstname << " " << lastname ;
+    cout << "The name you entered is : "<< firstname  + " " + lastname ;
     return 0;
 }
 
+/*int main()
+{
+    for (int i=0;i<10;i++)
+    {
+        if (i%2==0)
+        {
+            std::cout<<"Hello"<<std::endl;
+            continue;
+        }
+        else if (i==2||i==4||i==6)
+        {
+            std::cout<<"Yay";
+        }
+    }
+    return 0;
+}*/
