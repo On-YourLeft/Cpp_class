@@ -1,3 +1,5 @@
+//Take two integers and display their sum
+
 #include <iostream>
 
 int main()

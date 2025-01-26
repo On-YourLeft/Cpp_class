@@ -1,3 +1,5 @@
+//Calculates area and perimeter
+
 #include <iostream>
 
 using namespace std;

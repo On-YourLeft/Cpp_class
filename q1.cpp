@@ -1,3 +1,5 @@
+//Reads and outputs user name and age
+
 #include <iostream>
 using namespace std;
 

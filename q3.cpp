@@ -1,3 +1,5 @@
+//Input two numbers and any operator and display their result
+
 #include <iostream>
 using namespace std;
 

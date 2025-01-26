@@ -1,3 +1,5 @@
+//Calculating compound interest
+
 #include <iostream>
 #include <cmath>
 
