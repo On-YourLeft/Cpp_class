@@ -19,14 +19,14 @@ int main()
     }
     
     {
-    if (num1%num2 == 0)
-    {
-        cout<<"The first integer "<<num1<<" is surely a multiple of the second integer "<<num2<<" .";
-    }
-    else
-    {
-        cout<<"The first integer "<<num1<<" is not a multiple of the second integer "<<num2<<" .";
-    }
+        if (num1%num2 == 0)
+        {
+            cout<<"The first integer "<<num1<<" is surely a multiple of the second integer "<<num2<<" .";
+        }
+        else
+        {
+            cout<<"The first integer "<<num1<<" is not a multiple of the second integer "<<num2<<" .";
+        }
     }
     return 0;
 }

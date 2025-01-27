@@ -24,6 +24,6 @@ int main()
     time_t nowTime = mktime(nowTm); 
     double differenceInSeconds = difftime(nowTime, birthTime); 
     int differenceInDays = differenceInSeconds / (60 * 60 * 24); 
-    cout << "Hello, " << name << "! You are " << differenceInDays << " days old." << endl;
+    cout << "Hello " << name << "! You are " << differenceInDays << " days old." << endl;
     return 0;
 }
