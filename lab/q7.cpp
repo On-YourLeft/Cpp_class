@@ -1,4 +1,4 @@
-//Swap numbers by temporary variable and also withoiut temporary variable
+//Swap numbers by temporary variable and also without temporary variable
 
 #include <iostream>
 

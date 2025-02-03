@@ -1,0 +1,33 @@
+Focp questions
+
+1. Reads and outputs user name and age
+2. Take two integers and display their sum
+3. Input two numbers and any operator and display their result
+4. Take two floating point numbers and display the division till two decimal points
+5. Calculating compound interest
+6. Calculates area and perimeter
+7. Swap numbers by temporary variable and also without temporary variable
+8. Takes users full name and age and greets with how many days they have lived
+9. Program to input numbers and display them in a table with their types
+10. Input two numbers and check if the first is multiple of the second
+11. A program to count the number of 1 bits in an integer input by the user
+12. Program to quadratic eqn using conditional statements to handle all possible cases (real and distinct, real and equal, complex)
+13. Program to simulate an ATM machine using switch statement, with options for withdrawal, deposit, balance, enquiry and exit, with    error handling for invalid input and insufficient balance.
+14. Program to check if a triangle is valid and determining it's type
+15. Program to evaluate (a^b + c&d) where a,b,c and d are user inputs.
+16. Program to determine whether two integers are opposites in sign without using conditional operator
+17. Program to implement integer and floating point division manually without using '/'
+18. Program to perform circular left or right shifts to bits on a given integer
+19. Program to calculate grades of student by their marks
+20. Program to create a simple Menu driven calculator 
+21. Program to check if year is leap year
+22. Program to generate first n fibonacci numbers 
+23. Program to determine whether a given number is prime or not
+24. Program to calculate factorial using do-while loop
+25. Program that continuously accepts user inputs of integers until the user types 'exit'.
+    At the end, display:
+    1. Sum of all entered numbers.
+    2. The count of valid integers entered.
+    3. The maximum and minimum characters.
+26. Program to generate and display first 'n' prime numbers
+27. 
