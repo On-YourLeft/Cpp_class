@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int row,col;
+    /*int row,col;
     cout<<"Enter the rows and columns that you want to test in (r c) : ";
     cin>>row>>col;
     int arr2d[row][col];
@@ -23,7 +23,8 @@ int main()
             cout<<arr2d[r][c] <<" ";
         }
         cout<<endl;
-    }
+    }*/
+   cout<<123%10;
     return 0;
 }
 
